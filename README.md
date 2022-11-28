@@ -1,2 +1,2 @@
 # taco-cloud
-A Spring App
+A Simple Spring App
